@@ -36,8 +36,8 @@ python train.py
 streamlit run app.py
 
 ## Links
-Live Demo: customer-churn-prediction-srk.streamlit.app
-GitHub: github.com/shivamcuj/customer-churn-prediction
+Live Demo: https://customer-churn-prediction-srk.streamlit.app
+GitHub: https://github.com/shivamcuj/customer-churn-prediction
 
 ## Limitations
 The dataset is a sample customer snapshot.
