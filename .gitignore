@@ -3,4 +3,3 @@ __pycache__/
 *.pyc
 .DS_Store
 notebooks/churn.db 
-churn_model.joblib
